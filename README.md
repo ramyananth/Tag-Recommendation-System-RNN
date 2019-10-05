@@ -10,3 +10,6 @@ Model 2:
 2. Extract TF-IDF Feature vectors which serves as the input to the LR function
 3. FastText and Word2Vec models are trained on article's text - Input to Bidirectional LSTM
 4. Calculate using F1 score
+
+Model 3:
+1. Apply KNN algorithm 
